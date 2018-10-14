@@ -53,7 +53,7 @@ Imported from theme: [Annihilation Mastering Works](http://virtualcustoms.net/sh
 Imported from theme: [Annihilator](http://virtualcustoms.net/showthread.php/66860-Annihilator-Windows-8-1-1-Theme)
 
 #### ASUS by deviantdon & one man army:
-![ASUS](https://github.com/OliverKurz/windows-10-rs5-theme-collection/raw/master/images/ASUS_Preview.png)
+![ASUS](https://github.com/OliverKurz/windows-10-rs5-theme-collection/raw/master/images/No_Preview.png)
 
 Imported from theme: [ASUS](http://virtualcustoms.net/showthread.php/62820-Free%21%21-ASUS-Premium-Theme-pack)
 
@@ -91,6 +91,10 @@ Imported from theme: [HUD Machine White](http://virtualcustoms.net/showthread.ph
 
 #### HUD by Mr GRiM:
 ![HUD](https://github.com/OliverKurz/windows-10-rs5-theme-collection/raw/master/images/HUD_Preview.png)
+Imported from theme: [HUD](http://virtualcustoms.net/showthread.php/33932-FREE%21%21-HUD-Premium-Windows-7-Theme)
+
+#### HUD Red by Mr GRiM:
+![HUD Red](https://github.com/OliverKurz/windows-10-rs5-theme-collection/raw/master/images/No_Preview.png)
 Imported from theme: [HUD](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
 
 #### Klingon by Razorsedge:
